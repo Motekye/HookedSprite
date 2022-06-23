@@ -1,4 +1,4 @@
-package com.onethousandtwopixels.includes.graphics;
+//package insert.package.name;
 
 import android.graphics.Bitmap;
 import android.graphics.Rect;
