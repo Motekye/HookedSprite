@@ -1,4 +1,4 @@
-package com.onethousandtwopixels.includes.graphics;
+//package insert.package.name;
 
 import android.graphics.Bitmap;
 
@@ -56,7 +56,7 @@ public class Typeset extends Sprite {
         }
     }
 
-    // TODO: write a single line of text: (centered)
+    // write a single line of text: (centered)
     public void line_center(Bitmap d,String s,int x,int y,int c,int k){
         int j, i, wd=0; char z;
         for(i=0;i<s.length();i++){ z = s.charAt(i); wd+=widthOf(z) + k; }
